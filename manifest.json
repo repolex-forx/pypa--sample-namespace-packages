@@ -1,0 +1,43 @@
+{
+  "manifest_version": "1.0",
+  "org": "pypa",
+  "repo": "sample-namespace-packages",
+  "versions": [
+    {
+      "commit": "134414420e5f499547e8e36cb10e403a903f929b",
+      "parsed_at": "2026-10-11T09:15:52.913150+00:00",
+      "filetree": "filetree/134414420e5f499547e8e36cb10e403a903f929b.nq.gz",
+      "blobs": [
+        "blob/b2018858b57ca5b2c6da333e393f27db8c1e4b30.nq.gz",
+        "blob/69e3be50dac40cddced86e9df2f9c2df5a75f004.nq.gz",
+        "blob/8a791ed63cd49f10b1efebfc232a65ef1bea3707.nq.gz",
+        "blob/fed528d4a7a148fd0bf0b0198a6461f8c91b87e9.nq.gz",
+        "blob/ba466ae9c9aaae619becfd10a8da61f537b710ca.nq.gz",
+        "blob/6ddc7e0480dbc1b83133c7cb6f6a9d80549d7de6.nq.gz",
+        "blob/0804c450f5f691e5f5c8829cfa1ae718e26821ca.nq.gz",
+        "blob/0aa810dfbf6f5ca0e2911a562cbe1436ef9fc69e.nq.gz",
+        "blob/03444e1df0185778cf840a3c583118e495d2d59b.nq.gz",
+        "blob/1cd580c6d991c3e30e65aebe691f947dc83c2c08.nq.gz",
+        "blob/bd8bb444f1277abbc5d13961c75e63f400d0d449.nq.gz",
+        "blob/88d3397857375d5c98d0dd0f4ff1fd7a1b73ca0c.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/27b9352a1edf4a381c0dd632227d94a111251ae4.nq.gz",
+        "blob/ede6c8c9bb711dc7fb1627b8d8497ea97736c30d.nq.gz",
+        "blob/4ffda8ff57bb6a40acf1c73d52b5ec504faa1bc6.nq.gz",
+        "blob/64aea5c0d07a54221b655a854185ed697d9c2403.nq.gz",
+        "blob/872122a53d4eae4feadf467ba831a7cfbe4b064a.nq.gz",
+        "blob/de40ea7ca058e07a399acf61529d418c07eeee61.nq.gz",
+        "blob/891ded3ff37969e24212a519637fb520ee149419.nq.gz",
+        "blob/0c8034bbb5b12c8c5f8fad3aadd46d8beddc1db0.nq.gz",
+        "blob/09f5752cc981d16c983eb722f2edbce16fa6dc01.nq.gz",
+        "blob/8021a7ab34eeec8f403c44bc3cdbe231c3e1e2f7.nq.gz",
+        "blob/3f97de4b54295ed04af7b89f30fd9dc2c828f83d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
