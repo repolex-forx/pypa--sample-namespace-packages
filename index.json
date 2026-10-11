@@ -1,0 +1,11 @@
+{
+  "org": "pypa",
+  "repo": "sample-namespace-packages",
+  "versions": [
+    {
+      "commit": "134414420e5f499547e8e36cb10e403a903f929b",
+      "tag": "",
+      "parsed_at": "2026-10-11T09:18:46.310998+00:00"
+    }
+  ]
+}
